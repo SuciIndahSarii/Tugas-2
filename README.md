@@ -1,6 +1,7 @@
 # Tugas-2
 
 Suci Indah Sari
+
 Tugas Percobaan 1 Informasi Finger
 <img width="554" height="415" alt="Screenshot 2026-10-05 224436" src="https://github.com/user-attachments/assets/8fd4e020-4038-4977-8bda-9e62da749cde" />
 <img width="545" height="410" alt="Screenshot 2026-10-05 224641" src="https://github.com/user-attachments/assets/6ad48ba2-b71e-4406-b0e5-b50ed57fb063" />
